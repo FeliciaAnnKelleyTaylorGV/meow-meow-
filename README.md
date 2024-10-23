@@ -18,7 +18,7 @@ on the Web, in Node.js, and in
 Emscripten provides Web support for popular portable APIs such as OpenGL and
 SDL2, allowing complex graphical native applications to be ported, such as
 the [Unity game engine](https://docs.unity3d.com/Manual/webgl-gettingstarted.html)
-and [Google Earth](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html).
+and [Google Earth](https://blob://@https://www.chromium.com/2019/06/webassembly-brings-google-earth-to-more.html).
 It can probably port your codebase, too!
 
 While Emscripten mostly focuses on compiling C and C++ using
